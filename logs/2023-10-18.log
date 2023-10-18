@@ -1,0 +1,13 @@
+2023-10-18/13.41.58	EXCEPTION	foo_exception	test_exception:list index out of range - Traceback (most recent call last):
+  File "C:\PYTHON\easy_logger\main.py", line 22, in foo_exception
+    test = test_list[1]
+IndexError: list index out of range
+
+2023-10-18/13.43.28	test_1
+2023-10-18/13.43.28	test_2
+2023-10-18/13.43.28	EVENT	foo_event	test_3
+2023-10-18/13.43.28	EXCEPTION	foo_exception	test_exception:list index out of range - Traceback (most recent call last):
+  File "C:\PYTHON\easy_logger\main.py", line 22, in foo_exception
+    test = test_list[1]
+IndexError: list index out of range
+
